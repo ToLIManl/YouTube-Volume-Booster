@@ -8,3 +8,7 @@ To the left of the start button there will be a "Volume Booster" button; when yo
 
 
 To install the script, you need to create a new script in TamperMonkey and paste the code there.
+
+### Visitors :
+![Visitor Count](https://profile-counter.glitch.me/ToLIManl/count.svg)
+##
